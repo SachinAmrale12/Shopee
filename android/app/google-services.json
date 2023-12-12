@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "176763569340",
+    "project_id": "flutter-poc-a3b74",
+    "storage_bucket": "flutter-poc-a3b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176763569340:android:1e139cef3fbd64fbe47cb9",
+        "android_client_info": {
+          "package_name": "com.example.shopee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176763569340-slejqtum57u7276ah2v2aqtmpo29vl40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopee",
+            "certificate_hash": "7be06e7b95996d34972d09123c62b776204530a6"
+          }
+        },
+        {
+          "client_id": "176763569340-00ho827571h5rvjq9r7stao6br5g2eh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDCkk3d8gZAGe0t6aVaYI1b9JNsJ2mGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176763569340-00ho827571h5rvjq9r7stao6br5g2eh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176763569340-66g7m1mb591q4c5tc9r9soegrl7ggpak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

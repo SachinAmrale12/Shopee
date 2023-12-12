@@ -1,0 +1,52 @@
+name: shopee
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.2.1
+  http: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+  equatable: ^2.0.2
+  dartz: ^0.10.1
+  flutter_bloc: ^8.1.3
+  firebase_core: ^2.24.0
+  firebase_crashlytics: ^3.4.6
+  firebase_analytics: ^10.4.2
+  firebase_performance: ^0.9.3+6
+  firebase_messaging: ^14.7.6
+  flutter_local_notifications: ^16.2.0
+  firebase_auth: ^4.15.0
+  google_sign_in: ^5.0.0
+  flutter_jailbreak_detection: ^1.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - images/
+
+  fonts:
+    - family: Ubunto
+      fonts:
+        - asset: lib/common/fonts/Ubuntu-Bold.ttf
+        - asset: lib/common/fonts/Ubuntu-Light.ttf
+        - asset: lib/common/fonts/Ubuntu-Medium.ttf
+        - asset: lib/common/fonts/Ubuntu-Regular.ttf
